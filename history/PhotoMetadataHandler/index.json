@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "PhotoMetadataHandler.dll",
+  "latest": "257996614-C9962A5F4DBAC6633D3DD9C92D3A1E78-1",
+  "builds": [
+    {
+      "key": "257996614-C9962A5F4DBAC6633D3DD9C92D3A1E78-1",
+      "timestamp": "257996614",
+      "pdb_guid": "C9962A5F4DBAC6633D3DD9C92D3A1E78",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/257996614-C9962A5F4DBAC6633D3DD9C92D3A1E78-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
